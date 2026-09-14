@@ -26,6 +26,12 @@ BuildMatch aims to make this connection easier through a simple and clear websit
 
 6. Responsive design for desktop and mobile screens
 
+7. User login page
+  
+8. User sign up page
+
+9. Navigation between the homepage, login page and sign up page
+
 ## Technologies Used
 
 HTML
@@ -39,6 +45,14 @@ BuildMatch
 index.html
 
 style.css
+
+login.html
+
+login.css
+
+signup.html
+
+signup.css
 
 images
 
@@ -79,6 +93,8 @@ The website includes a link to construction safety resources from the Occupation
 5. Add user accounts
 
 6. Add messaging between workers and clients
+
+7. Add real user authentication and account management
 
 ## Author
 
